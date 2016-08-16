@@ -1,0 +1,23 @@
+{
+  "name": "MockHttpRequest",
+  "homepage": "https://github.com/philikon/MockHttpRequest",
+  "authors": [
+    "https://github.com/philikon"
+  ],
+  "description": "A mock implementation of XMLHttpRequest for unit testing",
+  "main": "lib/mock.js",
+  "keywords": [
+    "XMLHttpRequest",
+    "Mock",
+    "Unit",
+    "Test"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
